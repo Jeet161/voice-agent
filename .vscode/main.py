@@ -46,7 +46,7 @@ def open_app(query):
         speak("Application not found.")
 
 def jarvis():
-    speak("Hello, I am luna. How can I help you?")
+    speak("Hello, I am your personal assistant . How can I help you?")
     
     while True:
         query = take_command()
@@ -100,4 +100,3 @@ def jarvis():
 
 # Run Jarvis
 jarvis()
- 
