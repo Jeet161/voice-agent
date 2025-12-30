@@ -1,6 +1,14 @@
+# VS Code
 .vscode/
+
+# Python cache
 __pycache__/
-*.pyc
-*.pyd
-.env
+
+# Python packages / binaries
 *.whl
+
+# Logs
+*.log
+
+# Editor backup files
+#*
